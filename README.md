@@ -34,5 +34,4 @@ gcc main.c -o simulation -lm
 For detailed theoretical derivation, please refer to the original paper:
 - [ResearchGate: The 9/5 Fractal Cosmology Model]* **ResearchGate Publication:**
 * [https://doi.org](https://doi.org)
-* 
 https://doi.org/10.13140/RG.2.2.34321.80483/1
