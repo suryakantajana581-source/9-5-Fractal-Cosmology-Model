@@ -30,3 +30,7 @@ Compile using any standard C compiler (e.g., GCC):
 gcc main.c -o simulation -lm
 ./simulation
 ```
+## ResearchGate Publication
+For detailed theoretical derivation, please refer to the original paper:
+- [ResearchGate: The 9/5 Fractal Cosmology Model](https://researchgate.net)
+- 
